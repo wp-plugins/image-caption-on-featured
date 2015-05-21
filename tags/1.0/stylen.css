@@ -1,0 +1,24 @@
+
+
+
+/*------------------------------------*\
+   Bilder, bildtext och bildspelsslides
+\*------------------------------------*/
+.theimage{
+	
+	font-size: 460%;
+	height: 0;
+	line-height: 400%;
+	width: 100%;
+	padding-bottom:50%;
+	color: white;
+	background: no-repeat center;
+    background-size: cover;
+    text-align: center;
+	vertical-align: middle;	
+	text-shadow: 2px 2px gray;
+		
+}
+
+}
+
